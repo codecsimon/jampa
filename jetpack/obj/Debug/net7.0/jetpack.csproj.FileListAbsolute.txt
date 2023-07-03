@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\srok\jetpack\bin\Debug\net7.0\jetpack.exe
+C:\Users\pc\Desktop\srok\jetpack\bin\Debug\net7.0\jetpack.deps.json
+C:\Users\pc\Desktop\srok\jetpack\bin\Debug\net7.0\jetpack.runtimeconfig.json
+C:\Users\pc\Desktop\srok\jetpack\bin\Debug\net7.0\jetpack.dll
+C:\Users\pc\Desktop\srok\jetpack\bin\Debug\net7.0\jetpack.pdb
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\jetpack.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\jetpack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\jetpack.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\jetpack.AssemblyInfo.cs
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\jetpack.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\jetpack.dll
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\refint\jetpack.dll
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\jetpack.pdb
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\jetpack.genruntimeconfig.cache
+C:\Users\pc\Desktop\srok\jetpack\obj\Debug\net7.0\ref\jetpack.dll
