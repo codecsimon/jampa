@@ -9,7 +9,7 @@ public void getbal(int amt,string prod)
 {
 amount=amt;
 productname=prod;
-
+int xok=amount *3;
 
 }
 
